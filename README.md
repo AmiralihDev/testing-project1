@@ -1,2 +1,3 @@
-# testing-project1
-this project is calculator
+# calculator
+
+this project has 1 function and this function has 3 parametrs 
